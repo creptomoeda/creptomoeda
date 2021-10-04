@@ -1,0 +1,10 @@
+primeira adicão: 
+
+https://bscscan.com/tx/0x12a6b354834def2ecdf98eb275376c76e1be3d9b6bea3c877870d2cba5974bd0
+(nessa primeira adicição de liquidez, foi colocado usado mais de 100% do que tinha sido vendido, 
+ou seja, o(s) dev(s) não só colocaram o que foi vendido como liquidez, como ainda colocou dinheiro próprio) 
+
+Segunda adição:
+https://bscscan.com/tx/0x7fed637491e1d66c8f2eea8f39c2a893821130813107c5f3edaeab6e61cd5022
+
+Na média: tudo que foi vendido foi adicionado aos NFTs
