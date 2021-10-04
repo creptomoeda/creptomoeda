@@ -11,7 +11,7 @@ O projeto foi realizado por meio de vendas de NFTs
 
 
 Rede: Binance Smart Chain (BEP-20)
-Data de Lançamento: Lançado 
+Data de Lançamento: foi lançado dia 01 de outubro de 2021
 
 
 ### Contrato: 0x00658ba17bc745d9081b21485d8013f866e6e4cc 
